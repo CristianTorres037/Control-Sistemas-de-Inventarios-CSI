@@ -19,7 +19,7 @@ echo "<br />";
 $num1=5;
 $num2=77;
 
-$suma = $num1 + $num2;
+$multilinea = $num1 + $num2;
 
 echo $suma;
 
